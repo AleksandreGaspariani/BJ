@@ -1,0 +1,13 @@
+
+* {
+	box-sizing: border-box;
+	font-family: arial;
+}
+
+.playerCards:not(:first-child):not(:last-cild) {
+	margin-top: 5rem;
+}
+
+body {
+	min-height: 100vh;
+}
